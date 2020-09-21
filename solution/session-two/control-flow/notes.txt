@@ -1,0 +1,13 @@
+Solutions for session-one exercise
+n
+Python 2.7.18rc1 (default, Apr  7 2020, 12:05:55) 
+[GCC 9.3.0] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 4300 << 1
+8600
+>>> 100 << 1
+200
+>>> 4000 << 1
+8000
+>>> 
+
