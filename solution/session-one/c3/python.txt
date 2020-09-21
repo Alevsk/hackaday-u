@@ -1,0 +1,35 @@
+python
+Python 2.7.18rc1 (default, Apr  7 2020, 12:05:55) 
+[GCC 9.3.0] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 0x20
+32
+>>> 0x40
+64
+>>> 0x41
+65
+>>> A-B
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'A' is not defined
+>>> 0x41
+65
+>>> 65+32
+97
+>>> ord('A')
+65
+>>> ord('A')
+65
+>>> ord('a')
+97
+>>> hex(65)
+'0x41'
+>>> hex(97)
+'0x61'
+>>> 0x61-0x41
+32
+>>> hex(32)
+'0x20'
+>>> 0x61-0x41
+32
+>>>

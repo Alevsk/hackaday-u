@@ -1,0 +1,21 @@
+int main(int argc,char **argv)
+
+{
+  int iVar1;
+  undefined8 uVar2;
+  
+  if (argc != 2) {
+    usage(*argv);
+  }
+  uVar2 = checkSerial(argv[1]);
+  if ((int)uVar2 == 0) {
+    puts("Good Serial");
+    iVar1 = 0;
+  }
+  else {
+    puts("Bad Serial");
+    iVar1 = -1;
+  }
+  return iVar1;
+}
+

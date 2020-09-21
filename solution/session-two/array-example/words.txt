@@ -1,0 +1,20 @@
+                             s_hackadayu_001009f8                            XREF[1]:     00301020(*)  
+        001009f8 68 61 63        ds         "hackadayu"
+                 6b 61 64 
+                 61 79 75 00
+                             s_software_00100a02                             XREF[1]:     00301028(*)  
+        00100a02 73 6f 66        ds         "software"
+                 74 77 61 
+                 72 65 00
+                             s_reverse_00100a0b                              XREF[1]:     00301030(*)  
+        00100a0b 72 65 76        ds         "reverse"
+                 65 72 73 
+                 65 00
+                             s_engineering_00100a13                          XREF[1]:     00301038(*)  
+        00100a13 65 6e 67        ds         "engineering"
+                 69 6e 65 
+                 65 72 69 
+                             s_ghidra_00100a1f                               XREF[1]:     00301040(*)  
+        00100a1f 67 68 69        ds         "ghidra"
+                 64 72 61 
+                 00 00 00

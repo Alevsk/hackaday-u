@@ -1,0 +1,24 @@
+int main(int argc,char **argv)
+
+{
+  int iVar1;
+  size_t __n;
+  
+  if (argc == 2) {
+    __n = strlen("hackadayu");
+    iVar1 = strncmp(argv[1],"hackadayu",__n);
+    if (iVar1 == 0) {
+      printf("Correct! The password was %s this whole time!\r\n",argv[1]);
+      iVar1 = 0;
+    }
+    else {
+      printf("Wrong answer, we\'d never use %s as the password!\r\n",argv[1]);
+      iVar1 = -1;
+    }
+  }
+  else {
+    puts("Please supply the password!\r");
+    iVar1 = -1;
+  }
+  return iVar1;
+}

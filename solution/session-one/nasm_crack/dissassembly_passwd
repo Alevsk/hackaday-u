@@ -1,0 +1,14 @@
+                             passwd                                          XREF[2]:     entry:0040105e(*), 
+                                                                                          entry:00401077(R)  
+        00402026 73              char       's'
+        00402027 75              char       'u'
+        00402028 70              char       'p'
+        00402029 65              char       'e'
+        0040202a 72              char       'r'
+        0040202b 73              char       's'
+        0040202c 65              char       'e'
+        0040202d 63              char       'c'
+        0040202e 72              char       'r'
+        0040202f 65              char       'e'
+        00402030 74              char       't'
+
