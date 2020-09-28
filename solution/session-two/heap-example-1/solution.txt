@@ -1,0 +1,3 @@
+/heap-example-1 AAAAAAAAAAAA
+The result is: AAAAAAAAAAAA
+
